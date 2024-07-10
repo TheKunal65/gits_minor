@@ -50,6 +50,6 @@ The primary objective of this project is to develop a robust and interactive cha
 - **User Acceptance Testing (UAT):** To get feedback from end-users and ensure the application meets their needs.
 
 ## Screenshots
-![Screenshot 1](path/to/screenshot1.png)
-![Screenshot 2](path/to/screenshot2.png)
-![Screenshot 3](path/to/screenshot3.png)
+![Screenshot 1](screenshots/ss1.jpg)
+![Screenshot 2](screenshots/ss2.jpg)
+![Screenshot 3](screenshots/ss3.jpg)
